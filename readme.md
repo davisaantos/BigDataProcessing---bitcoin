@@ -138,4 +138,4 @@ Você pode agendar a execução automática de notebooks periodicamente:
 
 ## Conclusão
 
-Este projeto demonstra como utilizar Databricks e PySpark para analisar dados históricos da cotação do Bitcoin, realizar o processamento e visualização dos dados, e integrar o trabalho com o GitHub. Você pode expandir o projeto para incluir mais métricas e analisar outras criptomoedas ou ativos financeiros.
+Este projeto demonstra como utilizar Databricks e PySpark para analisar dados históricos da cotação do Bitcoin, realizar o processamento e visualização dos dados, e integrar o trabalho com o GitHub.
