@@ -40,9 +40,6 @@ Os dados de cotação incluem registros OHLC (Open, High, Low, Close) e volume d
 4. No notebook, cole o seguinte código PySpark para carregar, processar e analisar os dados do Bitcoin:
 
 ```python
-# Importar SparkSession
-from pyspark.sql import SparkSession
-from pyspark.sql.functions import col, avg, from_unixtime
 
 # Criação da sessão Spark
 spark = SparkSession.builder.appName('BitcoinAnalysis').getOrCreate()
